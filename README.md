@@ -32,7 +32,7 @@ $ sudo visudo
 ```
 $ git clone https://github.com/skagaya-web/docker-wordpress-nginx.git ~/docker-wordpress-nginx
 $ cd ~/docker-wordpress-nginx
-$ chmod +x reset.sh
+$ chmod +x init.sh
 $ sudo docker-compose up -d
 ```
 
