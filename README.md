@@ -46,7 +46,7 @@ $ sudo docker-compose down
 ```
 $ cd ~/docker-wordpress-nginx
 $ sudo docker-compose down
-$ ./reset.sh
+$ ./init.sh
 ```
 
 ## References
